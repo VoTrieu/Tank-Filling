@@ -1,0 +1,15 @@
+# Studio 5000 temporary, recovery, and user-specific files
+*.ACD.Recovery
+*.Sem
+*.Wrk
+*.BAK*.acd
+*.bak
+*.tmp
+*.lock
+
+# Generated high-resolution image sources; keep the optimized HMI assets
+
+
+# Windows metadata
+Thumbs.db
+Desktop.ini
